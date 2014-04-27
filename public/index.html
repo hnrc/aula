@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <title>Aula.io</title>
+  <meta charset="utf-8">
+  <meta name="og:title" property="og:title" content="Aula.io" />
+  <meta name="og:url" property="og:url" content="http://aula.io" />
+  <meta name="og:site_name" property="og:site_name" content="aula.io" />
+  <meta name="og:description" property="og:description" content="Tech talks from allover in one place" />
+  <meta name="description" content="Tech talks from allover in one place">
+  <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+  <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lobster">
+  <link rel="stylesheet" type="text/css" href="lumen.bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="spinner.css">
+  <link rel="stylesheet" type="text/css" href="aula.css">
+  <link rel="stylesheet" type="text/css" href="aula.bootstrap.css">
+</head>
+<body>
+  <div class="navbar navbar-default navbar-static-top hidden-print">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <i class="fa fa-bars fa-lg"></i>
+        </button>
+        <a class="navbar-brand" href="#"><i class="fa fa-coffee"></i> Aula.io</a>
+      </div>
+      <div class="navbar-collapse collapse" style="height: 1px;">
+        <ul class="nav navbar-nav">
+          <li class="menu-new"><a href="#new">Recently added</a></li>
+          <li class="menu-locations"><a href="#locations">Locations</a></li>
+          <li class="menu-speakers"><a href="#speakers">Speakers</a></li>
+          <li class="menu-tags"><a href="#tags">Tags</a></li>
+          <li class="menu-about"><a href="#about">About</a></li>
+        </ul>
+        <form class="navbar-form navbar-right navbar-collapse" id="search" role="search">
+          <div class="form-group">
+            <input type="text" class="form-control" id="input-search" placeholder="Search">
+          </div>
+          <button type="submit" class="btn btn-default">Search</button>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div id="content" class="container">
+    <div class="row">
+      <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+        <h1 class="section-header"></h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+        <hr />
+      </div>
+    </div>
+  </div> 
+  <script id="spinner-template" type="text/x-jquery-tmpl">
+    <div class="spinner">
+      <div class="double-bounce1"></div>
+      <div class="double-bounce2"></div>
+    </div>
+  </script>
+  <script id="talk-template" type="text/x-jquery-tmpl">
+    <div class="row item">
+      <div class="col-sm-offset-2 col-sm-3 col-xs-12">
+        <a href="${url}" target="_blank"><img class="talk-preview" src="${imageUrl}" /></a>
+      </div>
+      <div class="col-sm-5 col-xs-12">
+        <a href="${url}" target="_blank"><h1 class="talk-title">${title}</h1></a>
+        <p class="byline">
+          by {{each speakers}}<a href="#speakers/${slug}"><span class="talk-speaker">${title}</span></a> 
+          {{/each}}at <a href="#locations/${location.slug}"><span class="talk-location">${location.title}</span></a> <span class="talk-year">${year}</span>
+        </p>
+        <p>
+          {{each tags}}<a href="#tags/${slug}"><small class="talk-tag">${title}</small></a> {{/each}}
+        </p>
+        <p class="talk-description">
+          ${description}
+        </p>
+      </div>
+      <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+        <hr />
+      </div>
+    </div>
+  </script>
+  <script id="list-wrapper-template" type="text/x-jquery-tmpl">
+    <div id="list" class="item list-wrapper">
+      <div class="row">
+        <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+          <ul class="list-group list">
+          </ul>
+        </div>
+      </div>
+    </div>
+  </script>
+  <script id="list-template" type="text/x-jquery-tmpl">
+    <li class="list-group-item">
+      <span class="badge"><i class="fa fa-play"></i></span>
+      <a class="list-title" href="#${$item.basePath}/${slug}">${title}</a>
+    </li>
+  </script>
+  <script id="about-template" type="text/x-jquery-tmpl">
+    <div class="row item about-wrapper">
+      <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+        <p>
+          Aula.io is an ambitious attempt at collecting and indexing good and 
+          interesting tech talks, making them categorizable, searchable and 
+          most importantly easy to find and watch.
+        </p>
+        <p>
+          The focus will be on talks in the programming and software development
+          field, with everything that belongs to that like culture and organizational stuff.
+        </p>
+        <h1>Fork me on GitHub</h1>
+        <p>
+          The code will eventually be available on 
+          <a href="https://github.com/hnrc/aula" target="_blank">GitHub</a>
+          if you are interested in the bits and pieces that is going on 
+          under the hood.
+        </p>
+        <h1>Wanna help out with content?</h1>
+        <p>
+          You are extremely welcome to tweet me at 
+          <a href="https://twitter.com/hnrc" target="_blank">@hnrc</a>
+          with URLs to talks that you should be on here. I would really really 
+          really appreciate it <i class="fa fa-heart"></i>.
+        </p>
+        <h1>Contact</h1>
+        <p>
+          <ul>
+            <li><a href="http://henricenglund.se" target="_blank">henricenglund.se</a></li>
+            <li><a href="https://twitter.com/hnrc" target="_blank">twitter.com/hnrc</a></li>
+            <li><a href="https://github.com/hnrc" target="_blank">github.com/hnrc</a></li>
+          </ul>
+        </p>
+      </div>
+    </div>
+  </script>
+  <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.1.1/list.min.js"></script>
+  <script src="libs/routie/routie.min.js"></script>
+  <script src="libs/fastclick/fastclick.min.js"></script>
+  <script src="libs/tmpl/jquery.tmpl.min.js"></script>
+  <script src="aula.js"></script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-50644041-1', 'aula.io');
+    ga('send', 'pageview');
+  </script>
+</body>
+</html>
