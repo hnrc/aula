@@ -42,6 +42,11 @@ $(document).ready(function() {
     load("tags/" + tag, populateVideos);
   });
 
+  routie("search/:query", function(query) {
+    makeFancy("", "Search: " + query);
+    load("search?query=" + query, populateVideos);
+  });
+
   routie("about", function() {
     makeFancy("about", "About");
     $(".item").remove();
@@ -54,8 +59,7 @@ $(document).ready(function() {
 });
 
 $("#search").submit(function(e) {
-  makeFancy("", "Search: " + $("#input-search").val());
-  load("search?query=" + $("#input-search").val(), populateVideos);
+  routie("search/" + $("#input-search").val());
 });
 
 var makeFancy = function(section, header) {
@@ -68,7 +72,6 @@ var load = function(path, populate) {
   $(".item").remove();
   $(".spinner").remove(); 
   $.tmpl($("#spinner-template")).appendTo("#content");
-  console.log("hello");
   $.ajax({
     url: "/api/" + path,
     dataType: "json",
