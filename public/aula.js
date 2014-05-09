@@ -50,7 +50,7 @@ $(document).ready(function() {
   routie("about", function() {
     makeFancy("about", "About");
     $(".item").remove();
-    $.tmpl($("#about-template"), {"title": "Worldoooo"}).appendTo("#content");
+    $.tmpl($("#about-template")).appendTo("#content");
   });
 
   routie("*", function(name) {
