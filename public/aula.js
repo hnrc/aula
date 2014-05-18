@@ -7,6 +7,11 @@ $(document).ready(function() {
     }
   });
 
+  routie("home", function() {
+    makeFancy("home", "Recently added");
+    load("talks", populateHome);
+  });
+
   routie("new", function() {
     makeFancy("new", "Recently added");
     load("talks", populateVideos);
@@ -54,7 +59,7 @@ $(document).ready(function() {
   });
 
   routie("*", function(name) {
-    routie("new");
+    routie("home");
   });
 });
 
@@ -83,7 +88,15 @@ var load = function(path, populate) {
   });
 };
 
+var populateHome = function(items) {
+  $.tmpl($("#home-template")).prependTo("#content");
+  $.each(items, function(i, item) {
+    $.tmpl($("#talk-template"), item).appendTo("#content");
+  });
+}
+
 var populateVideos = function(items) {
+  $(".home").remove();
   $.each(items, function(i, item) {
     $.tmpl($("#talk-template"), item).appendTo("#content");
   });
