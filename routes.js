@@ -14,13 +14,13 @@ module.exports = function(app){
     list(res, "tags");
   });
   app.get("/api/locations/:location", function(req, res, next) {
-    search(res, "talks", "value.location.slug:" + req.params.location);
+    search(res, "talks", "value.location.slug:\"" + req.params.location + "\"");
   });
   app.get("/api/speakers/:speaker", function(req, res, next) {
-    search(res, "talks", "value.speakers.slug:" + req.params.speaker);
+    search(res, "talks", "value.speakers.slug:\"" + req.params.speaker + "\"");
   });
   app.get("/api/tags/:tag", function(req, res, next) {
-    search(res, "talks", "value.tags.slug:" + req.params.tag);
+    search(res, "talks", "value.tags.slug:\"" + req.params.tag + "\"");
   });
   app.get("/api/search", function(req, res, next) {
     if(req.query.query) {
