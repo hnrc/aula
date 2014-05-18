@@ -65,10 +65,14 @@
   <script id="talk-template" type="text/x-jquery-tmpl">
     <div class="row item">
       <div class="col-sm-offset-2 col-sm-3 col-xs-12">
-        <a href="${url}" target="_blank"><img class="talk-preview" src="${imageUrl}" /></a>
+        <a href="${url}" onclick="trackOutboundLink('${url}');" target="_blank">
+          <img class="talk-preview" src="${imageUrl}" />
+        </a>
       </div>
       <div class="col-sm-5 col-xs-12">
-        <a href="${url}" target="_blank"><h1 class="talk-title">${title}</h1></a>
+        <a href="${url}" onclick="trackOutboundLink('${url}');" target="_blank">
+          <h1 class="talk-title">${title}</h1>
+        </a>
         <p class="byline">
           by {{each speakers}}<a href="#speakers/${slug}"><span class="talk-speaker">${title}</span></a> 
           {{/each}}at <a href="#locations/${location.slug}"><span class="talk-location">${location.title}</span></a> <span class="talk-year">${year}</span>
@@ -156,6 +160,9 @@
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     ga('create', 'UA-50644041-1', 'aula.io');
     ga('send', 'pageview');
+    var trackOutboundLink = function(url) {
+      ga('send', 'event', 'outbound', 'click', url);
+    }
   </script>
 </body>
 </html>
