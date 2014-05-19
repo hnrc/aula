@@ -1,4 +1,4 @@
-module.exports = function(app){
+module.exports = function(app, talks, locations, speakers, tags) {
   var db = require("orchestrate")(process.env.ORCHESTRATE_TOKEN);
   var SortedObjectArray = require("sorted-object-array");
   app.get("/api/talks", function(req, res, next) {
