@@ -10,6 +10,7 @@
     "express": "4.x",
     "body-parser": "1.x",
     "logfmt": "1.x",
-    "nedb": "0.10.5"
+    "nedb": "0.10.5",
+    "underscore": "1.6.0"
   }
 }
