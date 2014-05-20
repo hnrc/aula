@@ -1,0 +1,33 @@
+{
+    "title": "Wat",
+    "year": 2012,
+    "url": "https://www.destroyallsoftware.com/talks/wat",
+    "imageUrl": "https://www.destroyallsoftware.com/images/talks/wat.preview.png",
+    "description": "A lightning talk by Gary Bernhardt from CodeMash 2012. The sarcasm in this talk does not represent anyone's actual opinion.",
+    "tags": [
+        {
+            "title": "Comedy",
+            "key": "comedy"
+        },
+        {
+            "title": "JavaScript",
+            "key": "javascript"
+        },
+        {
+            "title": "Ruby",
+            "key": "ruby"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Gary Bernhardt",
+            "key": "gary-bernhardt"
+        }
+    ],
+    "location": {
+        "title": "CodeMash",
+        "key": "codemash"
+    },
+    "key": "wat",
+    "added": "2014-05-04T08:35:02.586Z"
+}

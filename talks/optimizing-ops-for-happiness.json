@@ -1,0 +1,25 @@
+{
+    "title": "Optimizing Ops for Happiness",
+    "year": 2013,
+    "url": "https://vimeo.com/67178160",
+    "imageUrl": "https://i.vimeocdn.com/video/438956266_640.jpg",
+    "description": "Jesse Newland from GitHub, talks about what sucks about being on-call, why we need to think about this and how we can fix it.",
+    "tags": [
+        {
+            "title": "Ops",
+            "key": "ops"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Jesse Newland",
+            "key": "jesse-newland"
+        }
+    ],
+    "location": {
+        "title": "Monitorama",
+        "key": "monitorama"
+    },
+    "key": "optimizing-ops-for-happiness",
+    "added": "2014-05-15T19:08:45.740Z"
+}

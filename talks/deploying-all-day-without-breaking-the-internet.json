@@ -1,0 +1,25 @@
+{
+    "title": "Deploying All Day Without Breaking The Internet",
+    "year": 2014,
+    "url": "https://www.youtube.com/watch?v=-sftlh1RB4Q",
+    "imageUrl": "http://img.youtube.com/vi/-sftlh1RB4Q/maxresdefault.jpg",
+    "description": "In this talk, Sean O'Connor (Lead Application Developer, Bitly) covers the DevOps best practices, processes, approaches, and tools his team uses at Bitly to do over 20-30 deploys each day to over 400 servers without causing any major disruptions to service.",
+    "tags": [
+        {
+            "title": "DevOps",
+            "key": "devops"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Sean O'Connor",
+            "key": "sean-oconnor"
+        }
+    ],
+    "location": {
+        "title": "Etsy",
+        "key": "etsy"
+    },
+    "key": "deploying-all-day-without-breaking-the-internet",
+    "added": "2014-05-10T08:17:30.487Z"
+}

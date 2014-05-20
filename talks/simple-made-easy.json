@@ -1,0 +1,29 @@
+{
+    "title": "Simple Made Easy",
+    "year": 2011,
+    "url": "http://www.infoq.com/presentations/Simple-Made-Easy",
+    "imageUrl": "http://www.infoq.com/resource/presentations/Simple-Made-Easy/en/slides/sl2.jpg",
+    "description": "Rich Hickey emphasizes simplicity's virtues over easiness', showing that while many choose easiness they may end up with complexity, and the better way is to choose easiness along the simplicity path.",
+    "tags": [
+        {
+            "title": "People",
+            "key": "people"
+        },
+        {
+            "title": "Architecture",
+            "key": "architecture"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Rich Hickey",
+            "key": "rich-hickey"
+        }
+    ],
+    "location": {
+        "title": "Strange Loop",
+        "key": "strange-loop"
+    },
+    "key": "simple-made-easy",
+    "added": "2014-05-17T09:00:16.385Z"
+}

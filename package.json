@@ -9,8 +9,8 @@
   "dependencies": {
     "express": "4.x",
     "body-parser": "1.x",
-    "orchestrate": "0.0.9",
     "logfmt": "1.x",
-    "sorted-object-array": "1.0.0"
+    "nedb": "0.10.5",
+    "underscore": "1.6.0"
   }
 }

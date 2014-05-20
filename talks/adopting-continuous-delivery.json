@@ -1,0 +1,29 @@
+{
+    "title": "Adopting Continuous Delivery",
+    "year": 2013,
+    "url": "https://vimeo.com/68320415",
+    "imageUrl": "https://i.vimeocdn.com/video/442575243_640.jpg",
+    "description": "While keeping software production ready throughout its lifecycle and optimizing your delivery process for shorter cycle times might seem like a good idea to you, the rest of your organization might not share your excitement. In this talk, I share stories from companies who have attempted to adopt continuous delivery and discusses the organizational, architectural and process factors that led to the success - or failure - of these initiatives.",
+    "tags": [
+        {
+            "title": "Organization",
+            "key": "organization"
+        },
+        {
+            "title": "Architecture",
+            "key": "architecture"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Jez Humble",
+            "key": "jez-humble"
+        }
+    ],
+    "location": {
+        "title": "NDC",
+        "key": "ndc"
+    },
+    "key": "adopting-continuous-delivery",
+    "added": "2014-05-15T18:38:42.019Z"
+}

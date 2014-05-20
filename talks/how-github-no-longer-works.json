@@ -1,0 +1,25 @@
+{
+    "title": "How GitHub (no longer) Works",
+    "year": 2013,
+    "url": "http://www.infoq.com/presentations/github-evolution",
+    "imageUrl": "https://speakerd.s3.amazonaws.com/presentations/3b9d21b02f83013193f63a251344e3e5/slide_0.jpg",
+    "description": "A lot of my talks like 'How GitHub Uses GitHub to Build GitHub' and posts like 'How GitHub Works' are nifty, but they represent a snapshot of the company when we were 30-75 employees. We're 217 today, and things inevitably changed to grow the company to that scale. This talk is a retrospective: it takes a closer look at specific things that we've said over the last few years, and then details the adjustments that were made as we've grown.",
+    "tags": [
+        {
+            "title": "Organization",
+            "key": "organization"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Zach Holman",
+            "key": "zach-holman"
+        }
+    ],
+    "location": {
+        "title": "QCon",
+        "key": "qcon"
+    },
+    "key": "how-github-no-longer-works",
+    "added": "2014-05-04T11:22:52.702Z"
+}

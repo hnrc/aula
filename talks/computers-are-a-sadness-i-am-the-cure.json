@@ -1,0 +1,33 @@
+{
+    "title": "Computers are a Sadness, I am the Cure",
+    "year": 2014,
+    "url": "https://vimeo.com/95066828",
+    "imageUrl": "https://i.vimeocdn.com/video/474938991_640.jpg",
+    "description": "\"I also loved how they booked James Mickens for a side-splitting talk experience about technology, life, the universe, and everything. He skewered everything from NoSQL to threat models, and my only complaint is that I was laughing so much it made it hard to breathe.\" - PagerDuty",
+    "tags": [
+        {
+            "title": "Comedy",
+            "key": "comedy"
+        },
+        {
+            "key": "distributed-systems",
+            "title": "Distributed systems"
+        },
+        {
+            "title": "Security",
+            "key": "security"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "James Mickens",
+            "key": "james-mickens"
+        }
+    ],
+    "location": {
+        "title": "Monitorama",
+        "key": "monitorama"
+    },
+    "key": "computers-are-a-sadness-i-am-the-cure",
+    "added": "2014-05-15T18:09:55.282Z"
+}

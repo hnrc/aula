@@ -1,0 +1,29 @@
+{
+    "title": "Resilient Response In Complex Systems",
+    "year": 2012,
+    "url": "http://www.infoq.com/presentations/Resilient-Response-In-Complex-Systems",
+    "imageUrl": "http://image.slidesharecdn.com/qconlondon2012-keynote-120311095115-phpapp02/95/slide-1-728.jpg",
+    "description": "John Allspaw discusses pitfalls to be avoided while troubleshooting failed systems, comparing web operations at scale with practices in aviation and nuclear power industries.",
+    "tags": [
+        {
+            "title": "DevOps",
+            "key": "devops"
+        },
+        {
+            "title": "Organization",
+            "key": "organization"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "John Allspaw",
+            "key": "john-allspaw"
+        }
+    ],
+    "location": {
+        "title": "QCon",
+        "key": "qcon"
+    },
+    "key": "resilient-response-in-complex-systems",
+    "added": "2014-05-18T07:26:00.077Z"
+}

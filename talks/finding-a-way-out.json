@@ -1,0 +1,25 @@
+{
+    "title": "Finding a Way Out",
+    "year": 2013,
+    "url": "http://www.infoq.com/presentations/reimagining-software",
+    "imageUrl": "http://www.infoq.com/resource/presentations/reimagining-software/en/slides/sl1.jpg",
+    "description": "Chris Granger attempts to imagine what programming would look like if it was created today.",
+    "tags": [
+        {
+            "title": "Invention",
+            "key": "invention"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Chris Granger",
+            "key": "chris-granger"
+        }
+    ],
+    "location": {
+        "title": "Strange Loop",
+        "key": "strange-loop"
+    },
+    "key": "finding-a-way-out",
+    "added": "2014-05-15T20:40:34.842Z"
+}

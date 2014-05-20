@@ -1,0 +1,29 @@
+{
+    "title": "Stop Hiring DevOps Experts and Start Growing Them",
+    "year": 2014,
+    "url": "https://www.youtube.com/watch?v=6m9nCtyn6kE",
+    "imageUrl": "http://img.youtube.com/vi/6m9nCtyn6kE/mqdefault.jpg",
+    "description": "Everyone is putting \"DevOps\" on their LinkedIn profile, and everyone is trying to hire them. In this talk, Jez will argue this is not a recruitment problem but an organizations failure. This talk discusses how to grow great people and great organizations, and how the two problems are connected.",
+    "tags": [
+        {
+            "title": "DevOps",
+            "key": "devops"
+        },
+        {
+            "title": "Organization",
+            "key": "organization"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Jez Humble",
+            "key": "jez-humble"
+        }
+    ],
+    "location": {
+        "title": "Ebay",
+        "key": "ebay"
+    },
+    "key": "stop-hiring-devops-experts-and-start-growing-them",
+    "added": "2014-05-10T08:56:32.941Z"
+}

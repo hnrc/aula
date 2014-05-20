@@ -1,0 +1,25 @@
+{
+    "title": "Keeping People",
+    "year": 2013,
+    "url": "https://www.youtube.com/watch?v=vCSNME4voRU",
+    "imageUrl": "http://img.youtube.com/vi/vCSNME4voRU/maxresdefault.jpg",
+    "description": "Tech companies do a generally poor job at keeping employees from leaving. There are plenty of reasons for this: competing offers, unhappiness, and just generally itchy feet. Because of this, sometimes it's difficult to focus on building a strong culture of company solidarity, particularly when you're trying to juggle the hundreds of other needs of a growing business. This is a talk about keeping people.",
+    "tags": [
+        {
+            "title": "Organization",
+            "key": "organization"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Zach Holman",
+            "key": "zach-holman"
+        }
+    ],
+    "location": {
+        "title": "unSEXY",
+        "key": "unsexy"
+    },
+    "key": "keeping-people",
+    "added": "2014-05-18T16:57:16.817Z"
+}

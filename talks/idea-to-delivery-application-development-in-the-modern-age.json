@@ -1,0 +1,29 @@
+{
+    "title": "Idea to Delivery: Application Development in the Modern Age",
+    "year": 2013,
+    "url": "https://vimeo.com/49701839",
+    "imageUrl": "https://i.vimeocdn.com/video/342960018_640.jpg",
+    "description": "Great coders know their technology intimately. And they know how to choose it. Truly awesome application developers know more. They know the human side of technology. They know technique. They focus on their method - their practice. In 2000 Heroku co-founder and CTO Adam Wiggins saw this more clearly than ever before. He read The Pragmatic Programmer by Andy Hunt and Dave Thomas. The book, as Adam explains in this thought-provoking (and method-shifting) Waza talk, showed him that his work could not only be about technology. It HAD to be about technique.",
+    "tags": [
+        {
+            "title": "Architecture",
+            "key": "architecture"
+        },
+        {
+            "title": "Organization",
+            "key": "organization"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Adam Wiggins",
+            "key": "adam-wiggins"
+        }
+    ],
+    "location": {
+        "title": "Waza",
+        "key": "waza"
+    },
+    "key": "idea-to-delivery-application-development-in-the-modern-age",
+    "added": "2014-05-05T17:48:27.564Z"
+}

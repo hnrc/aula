@@ -1,0 +1,33 @@
+{
+    "title": "Practicalities of Productionizing Distributed Systems",
+    "year": 2013,
+    "url": "https://www.youtube.com/watch?v=BKqgGpAOv1w",
+    "imageUrl": "http://img.youtube.com/vi/BKqgGpAOv1w/maxresdefault.jpg",
+    "description": "Discussing the latest in consensus protocols and distributed databases is extremely sexy, but how do we get those things into production? This talk discusses tactics and strategy for productionizing distributed systems with a little bit about what the future will hold.",
+    "tags": [
+        {
+            "key": "distributed-systems",
+            "title": "Distributed systems"
+        },
+        {
+            "key": "metrics",
+            "title": "Metrics"
+        },
+        {
+            "title": "Ops",
+            "key": "ops"
+        }
+    ],
+    "speakers": [
+        {
+            "key": "jeff-hodges",
+            "title": "Jeff Hodges"
+        }
+    ],
+    "location": {
+        "key": "ricon",
+        "title": "Ricon"
+    },
+    "key": "practicalities-of-productionizing-distributed-systems",
+    "added": "2014-05-04T09:18:16.931Z"
+}

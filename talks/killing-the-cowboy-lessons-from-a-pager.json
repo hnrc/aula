@@ -1,0 +1,25 @@
+{
+    "title": "Killing the Cowboy: Lessons from a Pager",
+    "year": 2012,
+    "url": "http://vimeo.com/42898664",
+    "imageUrl": "http://i.vimeocdn.com/video/297753376_640.jpg",
+    "description": "A smörgåsbord of stories of things done while keeping websites up, and how to learn more, faster. A walk-through of some great/horrible solutions to problems in production and a discussion of the lessons learned, the lessons that shouldn't have been learned, and the real lessons that took a little while longer to learn. With a probable inclusion of a small lecture on his caremad for cowboy engineers.",
+    "tags": [
+        {
+            "title": "Ops",
+            "key": "ops"
+        }
+    ],
+    "speakers": [
+        {
+            "key": "jeff-hodges",
+            "title": "Jeff Hodges"
+        }
+    ],
+    "location": {
+        "title": "Boundary",
+        "key": "boundary"
+    },
+    "key": "killing-the-cowboy-lessons-from-a-pager",
+    "added": "2014-05-04T09:21:36.047Z"
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Metrics, Metrics, Everywhere",
+    "year": 2011,
+    "url": "http://pivotallabs.com/139-metrics-metrics-everywhere",
+    "imageUrl": "http://i.vimeocdn.com/video/353738439_640.jpg",
+    "description": "If you don't measure it, you can't optimize it. Coda Hale of Yammer talks about service-level performance metrics, how they use them to guide their development strategy, and how you can improve the transparency of your own software.",
+    "tags": [
+        {
+            "key": "metrics",
+            "title": "Metrics"
+        },
+        {
+            "title": "Ops",
+            "key": "ops"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Coda Hale",
+            "key": "coda-hale"
+        }
+    ],
+    "location": {
+        "key": "pivotal-labs",
+        "title": "Pivotal Labs"
+    },
+    "key": "metrics-metrics-everywhere",
+    "added": "2014-05-04T09:19:49.777Z"
+}

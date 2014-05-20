@@ -1,0 +1,29 @@
+{
+    "title": "Practical Considerations For Microservice Architectures",
+    "year": 2013,
+    "url": "http://yow.eventer.com/yow-2013-1080/practical-considerations-for-microservice-architectures-by-sam-newman-1389",
+    "imageUrl": "http://videos.eventer.com/videos/1389/20140225025824_poster.jpg",
+    "description": "So you've heard about the buzz behind Microservices and finer-grained architectures in general? Microservice architectures can lead to easier to change, more maintainable systems which can be more secure, performant and stable than previous designs. But what are the practical concerns associated with running more fine-grained systems, and what are the new things you'll need to know if you want to embrace the power of smaller services without the new sources of complexity making your life a nightmare?",
+    "tags": [
+        {
+            "title": "Architecture",
+            "key": "architecture"
+        },
+        {
+            "key": "distributed-systems",
+            "title": "Distributed systems"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Sam Newman",
+            "key": "sam-newman"
+        }
+    ],
+    "location": {
+        "title": "YOW",
+        "key": "yow"
+    },
+    "key": "practical-considerations-for-microservice-architectures",
+    "added": "2014-05-19T07:12:44.181Z"
+}

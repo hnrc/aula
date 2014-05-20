@@ -1,0 +1,29 @@
+{
+    "title": "The Programming Ape",
+    "year": 2012,
+    "url": "https://vimeo.com/40988625",
+    "imageUrl": "https://i.vimeocdn.com/video/289187544_640.jpg",
+    "description": "Humans, you may have noticed, are not exactly rational. And yet here we are, trying to get them to build software. It's a bit of a mess. But there is some good news: by drawing on modern theories of human cognition we can begin to optimize our tools for how people think, not how computers work.",
+    "tags": [
+        {
+            "title": "Organization",
+            "key": "organization"
+        },
+        {
+            "title": "People",
+            "key": "people"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Coda Hale",
+            "key": "coda-hale"
+        }
+    ],
+    "location": {
+        "title": "PhillyETE",
+        "key": "phillyete"
+    },
+    "key": "the-programming-ape",
+    "added": "2014-05-04T09:51:41.231Z"
+}

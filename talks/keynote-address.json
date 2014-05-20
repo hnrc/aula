@@ -1,0 +1,29 @@
+{
+    "title": "Keynote Address",
+    "year": 2011,
+    "url": "https://www.youtube.com/watch?v=gNhn-bNc96Y",
+    "imageUrl": "http://img.youtube.com/vi/gNhn-bNc96Y/maxresdefault.jpg",
+    "description": "Ben is Google's Chief Information Officer, overseeing the company's global technology systems. His extensive hands-on experience in technology includes stints as a dBASE II programmer, front-line support manager, Macintosh developer, Windows 1.0 programmer, and Unix systems programmer. Prior to joining Google, he spent more than 13 years in Morgan Stanley's technology department, where he rose to the level of Managing Director. During his time there, he led teams responsible for software development technology, web and electronic commerce technologies and operations, and technologies for knowledge workers. Ben is a graduate of Columbia University.",
+    "tags": [
+        {
+            "title": "War stories",
+            "key": "war-stories"
+        },
+        {
+            "title": "Architecture",
+            "key": "architecture"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Ben Fried",
+            "key": "ben-fried"
+        }
+    ],
+    "location": {
+        "title": "Surge",
+        "key": "surge"
+    },
+    "key": "keynote-address",
+    "added": "2014-05-17T10:07:09.644Z"
+}
