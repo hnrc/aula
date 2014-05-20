@@ -1,0 +1,33 @@
+{
+    "title": "The Scams That Derail Programming, Motherfucker",
+    "year": 2012,
+    "url": "https://www.youtube.com/watch?v=neI_Pj558CY",
+    "imageUrl": "http://img.youtube.com/vi/neI_Pj558CY/maxresdefault.jpg",
+    "description": "Do you want to be successful in the world of startups and Information Technologies? Then come listen to Zed tell you the 10 best ways to scam, rip off, fool, and influence today's American programmer. While focusing on the American variety of coder, these tactics are sure to work on people from all over the world with only minor modifications.",
+    "tags": [
+        {
+            "title": "Organization",
+            "key": "organization"
+        },
+        {
+            "title": "People",
+            "key": "people"
+        },
+        {
+            "title": "Startup",
+            "key": "startup"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Zed A. Shaw",
+            "key": "zed-a-shaw"
+        }
+    ],
+    "location": {
+        "title": "Baruco",
+        "key": "baruco"
+    },
+    "key": "the-scams-that-derail-programming-motherfucker",
+    "added": "2014-05-04T20:11:43.603Z"
+}

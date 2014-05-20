@@ -1,0 +1,33 @@
+{
+    "title": "Juice It or Lose It",
+    "year": 2012,
+    "url": "https://www.youtube.com/watch?v=Fy0aCDmgnxg",
+    "imageUrl": "http://img.youtube.com/vi/Fy0aCDmgnxg/maxresdefault.jpg",
+    "description": "\"Adding juiciness to your game makes your game better 100% of the time, guaranteed,\" insists Crayon Physics Deluxe developer Petri Purho in a talk given at the Nordic Game Indie Night 2012.",
+    "tags": [
+        {
+            "title": "Games",
+            "key": "games"
+        },
+        {
+            "title": "Graphics",
+            "key": "graphics"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Martin Jonasson",
+            "key": "martin-jonasson"
+        },
+        {
+            "title": "Petri Purho",
+            "key": "petri-purho"
+        }
+    ],
+    "location": {
+        "title": "Nordic Game",
+        "key": "nordic-game"
+    },
+    "key": "juice-it-or-lose-it",
+    "added": "2014-05-05T07:11:02.386Z"
+}

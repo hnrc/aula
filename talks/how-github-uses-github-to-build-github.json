@@ -1,0 +1,29 @@
+{
+    "title": "How GitHub Uses GitHub to Build GitHub",
+    "year": 2011,
+    "url": "http://zachholman.com/talk/how-github-uses-github-to-build-github/",
+    "imageUrl": "http://confreaks.net/system/videos/images/706/preview/706-rubyconf2011-how-github-uses-github-to-build-github-thumb_0004.png",
+    "description": "Build features fast. Ship them. That's what we try to do at GitHub. Our process is the anti-process: what's the minimum overhead we can put up with to keep our code quality high, all while building features as quickly as possible? It's not just features, either: faster development means happier developers.",
+    "tags": [
+        {
+            "title": "Organization",
+            "key": "organization"
+        },
+        {
+            "title": "Architecture",
+            "key": "architecture"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Zach Holman",
+            "key": "zach-holman"
+        }
+    ],
+    "location": {
+        "title": "RubyConf",
+        "key": "rubyconf"
+    },
+    "key": "how-github-uses-github-to-build-github",
+    "added": "2014-05-04T10:53:44.332Z"
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Boundaries",
+    "year": 2012,
+    "url": "https://www.destroyallsoftware.com/talks/boundaries",
+    "imageUrl": "https://www.destroyallsoftware.com/images/talks/boundaries.preview.png",
+    "description": "This talk is about using simple values (as opposed to complex objects) not just for holding data, but also as the boundaries between components and subsystems. It moves through many topics: functional programming; mutability's relationship to OO; isolated unit testing with and without test doubles; and concurrency, to name some bar.",
+    "tags": [
+        {
+            "title": "Architecture",
+            "key": "architecture"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Gary Bernhardt",
+            "key": "gary-bernhardt"
+        }
+    ],
+    "location": {
+        "title": "SCNA",
+        "key": "scna"
+    },
+    "key": "boundaries",
+    "added": "2014-05-05T17:17:39.159Z"
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Systems that Never Stop (and Erlang)",
+    "year": 2009,
+    "url": "http://www.infoq.com/presentations/Systems-that-Never-Stop-Joe-Armstrong",
+    "imageUrl": "http://image.slidesharecdn.com/joearmstrongerlangalanguageforprogrammingreliablesystems-120418012750-phpapp01/95/slide-1-728.jpg",
+    "description": "Joe Armstrong presents 6 laws to obey in order to obtain high system reliability, Isolation, Concurrency, Failure Detection, Fault Identification, Live Code Upgrade, and Stable Storage, showing how they are respected in Erlang and followed by some examples from practice.",
+    "tags": [
+        {
+            "title": "Architecture",
+            "key": "architecture"
+        },
+        {
+            "title": "Erlang",
+            "key": "erlang"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Joe Armstrong",
+            "key": "joe-armstrong"
+        }
+    ],
+    "location": {
+        "title": "QCon",
+        "key": "qcon"
+    },
+    "key": "systems-that-never-stop-and-erlang",
+    "added": "2014-05-05T07:16:06.489Z"
+}

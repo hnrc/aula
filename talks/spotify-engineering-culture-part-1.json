@@ -1,0 +1,29 @@
+{
+    "title": "Spotify Engineering Culture - part 1",
+    "year": 2014,
+    "url": "https://vimeo.com/85490944",
+    "imageUrl": "https://i.vimeocdn.com/video/462847244_640.jpg",
+    "description": "An attempt to describe Spotifys engineering culture. This is a journey in progress, not a journey completed. So the stuff in the video isn't all true for all squads, but it appears to be mostly true for most squads.",
+    "tags": [
+        {
+            "title": "Organization",
+            "key": "organization"
+        },
+        {
+            "title": "People",
+            "key": "people"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Henrik Kniberg",
+            "key": "henrik-kniberg"
+        }
+    ],
+    "location": {
+        "title": "N/A",
+        "key": "na"
+    },
+    "key": "spotify-engineering-culture-part-1",
+    "added": "2014-05-15T18:25:35.612Z"
+}

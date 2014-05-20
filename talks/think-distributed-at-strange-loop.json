@@ -1,0 +1,41 @@
+{
+    "title": "Think Distributed at Strange Loop",
+    "year": 2013,
+    "url": "http://thinkdistributed.io/blog/2013/09/18/live-from-strangeloop-2013.html",
+    "imageUrl": "http://img.youtube.com/vi/2lKBsPNqz0E/maxresdefault.jpg",
+    "description": "Live Q&A session about distributed systems broadcast from Strange Loop 2013",
+    "tags": [
+        {
+            "key": "distributed-systems",
+            "title": "Distributed systems"
+        },
+        {
+            "title": "Q&A",
+            "key": "qa"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Christopher Meiklejohn",
+            "key": "christopher-meiklejohn"
+        },
+        {
+            "title": "Kyle Kingsbury",
+            "key": "kyle-kingsbury"
+        },
+        {
+            "title": "Sean Cribbs",
+            "key": "sean-cribbs"
+        },
+        {
+            "title": "Reid Draper",
+            "key": "reid-draper"
+        }
+    ],
+    "location": {
+        "title": "Strange Loop",
+        "key": "strange-loop"
+    },
+    "key": "think-distributed-at-strange-loop",
+    "added": "2014-05-04T18:17:59.690Z"
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Drive: The surprising truth about what motivates us",
+    "year": 2010,
+    "url": "https://www.youtube.com/watch?v=u6XAPnuFjJc",
+    "imageUrl": "http://img.youtube.com/vi/u6XAPnuFjJc/maxresdefault.jpg",
+    "description": "This lively RSA Animate, adapted from Dan Pink's talk at the RSA, illustrates the hidden truths behind what really motivates us at home and in the workplace.",
+    "tags": [
+        {
+            "title": "Organization",
+            "key": "organization"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Dan Pink",
+            "key": "dan-pink"
+        }
+    ],
+    "location": {
+        "title": "N/A",
+        "key": "na"
+    },
+    "key": "drive-the-surprising-truth-about-what-motivates-us",
+    "added": "2014-05-10T08:42:50.762Z"
+}

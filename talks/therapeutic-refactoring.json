@@ -1,0 +1,29 @@
+{
+    "title": "Therapeutic Refactoring",
+    "year": 2012,
+    "url": "https://www.youtube.com/watch?v=J4dlF0kcThQ",
+    "imageUrl": "http://img.youtube.com/vi/J4dlF0kcThQ/maxresdefault.jpg",
+    "description": "Enter deadline center stage, exit best practices, quietly, rear stage left. The results are rarely pretty. Refactoring can pry panicâ€™s fingers away from your poor, overburdened adrenal glands and restore your sanity. Not that it went missing, of course. Never that! This talk will cover the two reasons why refactoring works as well as (or better than) whiskey, sky diving, and massages as therapy, explore a handful of effective strategies to ensure that the rubber meets the road, and contains gory before shots and slick after shots of ruby code that has served therapeutic purpose.",
+    "tags": [
+        {
+            "title": "Refactoring",
+            "key": "refactoring"
+        },
+        {
+            "title": "People",
+            "key": "people"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Katrina Owen",
+            "key": "katrina-owen"
+        }
+    ],
+    "location": {
+        "title": "Cascadia Ruby",
+        "key": "cascadia-ruby"
+    },
+    "key": "therapeutic-refactoring",
+    "added": "2014-05-05T17:20:45.226Z"
+}

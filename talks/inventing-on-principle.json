@@ -1,0 +1,29 @@
+{
+    "title": "Inventing on Principle",
+    "year": 2012,
+    "url": "http://vimeo.com/36579366",
+    "imageUrl": "http://i.vimeocdn.com/video/251172173_640.jpg",
+    "description": "Bret Victor invents tools that enable people to understand and create. He has designed experimental UI concepts at Apple, interactive data graphics for Al Gore, and musical instruments at Alesis.",
+    "tags": [
+        {
+            "title": "Invention",
+            "key": "invention"
+        },
+        {
+            "title": "Graphics",
+            "key": "graphics"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Bret Victor",
+            "key": "bret-victor"
+        }
+    ],
+    "location": {
+        "title": "CUSEC",
+        "key": "cusec"
+    },
+    "key": "inventing-on-principle",
+    "added": "2014-05-04T09:22:52.638Z"
+}

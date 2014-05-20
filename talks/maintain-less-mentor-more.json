@@ -1,0 +1,25 @@
+{
+    "title": "Maintain Less, Mentor More",
+    "year": 2013,
+    "url": "https://vimeo.com/49723914",
+    "imageUrl": "https://i.vimeocdn.com/video/343044430_640.jpg",
+    "description": "Open source is hard but it gets much easier with a community backing you. I tried many approaches while developing fog, and thankfully, the resulting community is amazing. Now I'm doing my best to apply the same principles to the Heroku CLI and other open source projects. I make mistakes and often get lucky, but I have learned a lot about fostering community in the process. This session distills some of my techniques and explains how you can help build community around your favorite projects.",
+    "tags": [
+        {
+            "title": "Open Source",
+            "key": "open-source"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Wesley Beary",
+            "key": "wesley-beary"
+        }
+    ],
+    "location": {
+        "title": "Waza",
+        "key": "waza"
+    },
+    "key": "maintain-less-mentor-more",
+    "added": "2014-05-06T20:57:25.598Z"
+}

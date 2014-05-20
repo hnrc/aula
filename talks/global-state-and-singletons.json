@@ -1,0 +1,25 @@
+{
+    "title": "Global State and Singletons",
+    "year": 2008,
+    "url": "https://www.youtube.com/watch?v=-FRm3VPhseI",
+    "imageUrl": "http://img.youtube.com/vi/-FRm3VPhseI/0.jpg",
+    "description": "Global state (and singletons) is a big problem for testing because the global state cannot be controlled by the tests. Dependency injection enforces the order of initialization at compile time. No magic behind the scene, that singletons get initialized and method talk to each other without the programmer knowing it.",
+    "tags": [
+        {
+            "title": "Clean code",
+            "key": "clean-code"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "MiÅ¡ko Hevery",
+            "key": "miko-hevery"
+        }
+    ],
+    "location": {
+        "title": "Google",
+        "key": "google"
+    },
+    "key": "global-state-and-singletons",
+    "added": "2014-05-04T20:01:54.084Z"
+}

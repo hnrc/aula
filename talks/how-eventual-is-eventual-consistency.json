@@ -1,0 +1,25 @@
+{
+    "title": "How Eventual is Eventual Consistency? ",
+    "year": 2012,
+    "url": "https://vimeo.com/37758648",
+    "imageUrl": "https://i.vimeocdn.com/video/259536724_640.jpg",
+    "description": "Many distributed data stores such as Riak, Cassandra, and Voldemort support partial quorum replication. Under partial quorum replication, a data store waits for only a subset of replicas to respond to a request before returning an answer, without ensuring that read and write replica sets intersect.",
+    "tags": [
+        {
+            "key": "distributed-systems",
+            "title": "Distributed systems"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Peter Bailis",
+            "key": "peter-bailis"
+        }
+    ],
+    "location": {
+        "title": "BashoChats",
+        "key": "bashochats"
+    },
+    "key": "how-eventual-is-eventual-consistency",
+    "added": "2014-05-15T21:41:11.130Z"
+}

@@ -1,0 +1,33 @@
+{
+    "title": "The Other Side Of Software Architecture",
+    "year": 2012,
+    "url": "http://www.organizedwonder.com/videos/1014",
+    "imageUrl": "http://s9.postimg.org/u7af5knkf/the_other_side_of_software_architecture.png",
+    "description": "Obviously, you care about the craft of programming. You spend time honing your skills, refactoring your code, learning new techniques, and experimenting with different libraries. But did you know where you sit, who you talk to, and how you report to your manager all affect the way your software is structured?",
+    "tags": [
+        {
+            "title": "Organization",
+            "key": "organization"
+        },
+        {
+            "title": "People",
+            "key": "people"
+        },
+        {
+            "title": "Architecture",
+            "key": "architecture"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Coda Hale",
+            "key": "coda-hale"
+        }
+    ],
+    "location": {
+        "title": "Etsy",
+        "key": "etsy"
+    },
+    "key": "the-other-side-of-software-architecture",
+    "added": "2014-05-04T10:04:09.767Z"
+}

@@ -1,0 +1,25 @@
+{
+    "title": "How GitHub Works",
+    "year": 2012,
+    "url": "https://vimeo.com/43684882",
+    "imageUrl": "https://i.vimeocdn.com/video/303342248_640.jpg",
+    "description": "We do things differently at GitHub. We don't have meetings, we don't have managers, we don't do traditional code review, and we aren't always in the same room, much less on the same continent. And we couldn't be happier about it. We ship code quickly, without a lot of red tape, and still maintain an incredibly high level of code quality. It's a great way to keep your developers happy, and we think it can work in your company, too.",
+    "tags": [
+        {
+            "title": "Organization",
+            "key": "organization"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Zach Holman",
+            "key": "zach-holman"
+        }
+    ],
+    "location": {
+        "title": "N/A",
+        "key": "na"
+    },
+    "key": "how-github-works",
+    "added": "2014-05-04T11:18:35.490Z"
+}

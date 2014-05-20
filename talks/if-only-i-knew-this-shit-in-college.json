@@ -1,0 +1,29 @@
+{
+    "title": "If Only I Knew This Shit In College",
+    "year": 2014,
+    "url": "https://vimeo.com/92087878",
+    "imageUrl": "https://i.vimeocdn.com/video/471715762_640.jpg",
+    "description": "I knew I wanted to work in tech. Looking back, that's really all I knew prior to graduating from university and joining the working world. I was invited back to give a talk at my alma mater recently and I wanted to give a talk to my less-than-knowledgeable former self and explain to him what he'll learn in the subsequent years after school.",
+    "tags": [
+        {
+            "title": "People",
+            "key": "people"
+        },
+        {
+            "title": "Startup",
+            "key": "startup"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Zach Holman",
+            "key": "zach-holman"
+        }
+    ],
+    "location": {
+        "title": "CUSEC",
+        "key": "cusec"
+    },
+    "key": "if-only-i-knew-this-shit-in-college",
+    "added": "2014-05-04T10:51:35.913Z"
+}

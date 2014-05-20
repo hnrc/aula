@@ -1,0 +1,29 @@
+{
+    "title": "Distributed Systems Archeology",
+    "year": 2013,
+    "url": "https://www.youtube.com/watch?v=Wp08EmQtP44",
+    "imageUrl": "http://img.youtube.com/vi/Wp08EmQtP44/maxresdefault.jpg",
+    "description": "While the rapid adoption of distributed systems methodologies to cope with modern business needs has led to a crystallization of \"best practices\" that could be described as ad hoc at best, academics and practitioners, eager to find elegant solutions to difficult problems, are collaborating in new, exciting ways. What gets lost in the shuffle of commerce and progress, however, are the lessons of the past. What are these lessons? What are we doomed to repeat, and what new ground are we covering?",
+    "tags": [
+        {
+            "key": "distributed-systems",
+            "title": "Distributed systems"
+        },
+        {
+            "title": "History",
+            "key": "history"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Michael Bernstein",
+            "key": "michael-bernstein"
+        }
+    ],
+    "location": {
+        "key": "ricon",
+        "title": "Ricon"
+    },
+    "key": "distributed-systems-archeology",
+    "added": "2014-05-04T10:08:57.856Z"
+}
