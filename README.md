@@ -1,7 +1,8 @@
 Aula.io
 ====
 
-Here be dragons and the jam the runs Aula.io. It's built to run on Heroku but should run like a charm pretty much anywhere. 
+This is a project that aims to collect all the best tech talks in a structured fashion, making it easy to discover interesting tech talks at [Aula.io](http://www.aula.io)
+
 
 
 #### Please contribute by sending pull requests :heart:
