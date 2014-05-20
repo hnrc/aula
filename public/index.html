@@ -75,11 +75,11 @@
           <h1 class="talk-title">${title}</h1>
         </a>
         <p class="byline">
-          by {{each speakers}}<a href="#speakers/${slug}"><span class="talk-speaker">${title}</span></a> 
-          {{/each}}at <a href="#locations/${location.slug}"><span class="talk-location">${location.title}</span></a> <span class="talk-year">${year}</span>
+          by {{each speakers}}<a href="#speakers/${key}"><span class="talk-speaker">${title}</span></a> 
+          {{/each}}at <a href="#locations/${location.key}"><span class="talk-location">${location.title}</span></a> <span class="talk-year">${year}</span>
         </p>
         <p>
-          {{each tags}}<a href="#tags/${slug}"><small class="talk-tag">${title}</small></a> {{/each}}
+          {{each tags}}<a href="#tags/${key}"><small class="talk-tag">${title}</small></a> {{/each}}
         </p>
         <p class="talk-description">
           ${description}
@@ -103,7 +103,7 @@
   <script id="list-template" type="text/x-jquery-tmpl">
     <li class="list-group-item">
       <span class="badge"><i class="fa fa-play"></i></span>
-      <a class="list-title" href="#${$item.basePath}/${slug}">${title}</a>
+      <a class="list-title" href="#${$item.basePath}/${key}">${title}</a>
     </li>
   </script>
   <script id="home-template" type="text/x-jquery-tmpl">
