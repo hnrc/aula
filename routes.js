@@ -36,8 +36,15 @@ module.exports = function(app, talks, locations, speakers, tags) {
   });
   app.get("/api/search", function(req, res, next) {
     if(req.query.query) {
-      var pattern = new RegExp(req.query.query, "i");
-      talks.find({ $or: [ { "title": pattern }, { "description": pattern } ] }, function (err, docs) {
+      var conditions = [];
+      var split = req.query.query.split(" ");
+      for(var i = 0; i < split.length; i++) {
+        if(split[i].length > 0) {
+          conditions.push({ "title": new RegExp(split[i], "i") });
+          conditions.push({ "description": new RegExp(split[i], "i") });
+        }
+      }
+      talks.find({ $or: conditions }, function (err, docs) {
         res.send(docs);
       });
     } else {
