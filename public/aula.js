@@ -108,5 +108,4 @@ var populateList = function(items, path) {
     $.tmpl($("#list-template"), item, {"basePath": path}).appendTo($(wrapper).find(".list-group"));
   });
   wrapper.appendTo("#content");
-  new List("list", { valueNames: [ "list-title", "badge" ]}).sort("list-title", { order: "asc" });
 };
