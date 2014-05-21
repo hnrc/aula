@@ -42,3 +42,10 @@ The format for talks looks something like this:
 ```
 
 Where all `key` fields are [slugged](http://blog.tersmitten.nl/slugify/) versions of their corresponding `title`. `added` is a ISO 8601 zulu timestamp from the time when the talk was added to this repo.
+
+#### Contributors :raised_hands:
+* [mateusz-fiolka](https://github.com/mateusz-fiolka)
+* [snurra](https://github.com/snurra)
+* [chids](https://github.com/chids)
+* [kristiany](https://github.com/kristiany)
+* [kagrela](https://github.com/kagrela)
