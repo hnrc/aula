@@ -54,3 +54,4 @@ Where all `key` fields are [slugged](http://blog.tersmitten.nl/slugify/) version
 Props to the creators of these fine pieces of code:
 * [nedb](https://github.com/louischatriot/nedb)
 * [routie](https://github.com/jgallen23/routie)
+* [SpinKit](https://github.com/tobiasahlin/SpinKit)
