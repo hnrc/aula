@@ -49,6 +49,7 @@ Where all `key` fields are [slugged](http://blog.tersmitten.nl/slugify/) version
 * [chids](https://github.com/chids)
 * [kristiany](https://github.com/kristiany)
 * [kagrela](https://github.com/kagrela)
+* [inem](https://github.com/inem)
 
 #### Credits
 Props to the creators of these fine pieces of code:
