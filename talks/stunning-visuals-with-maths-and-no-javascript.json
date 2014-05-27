@@ -1,7 +1,7 @@
 {
     "title": "Stunning visuals with Maths and... no JavaScript?",
     "year": 2013,
-    "url": "http://2013.full-frontal.org/#stunning-visuals-with-maths-andno-javascript",
+    "url": "https://www.youtube.com/watch?v=GeBM8qaJXCE",
     "imageUrl": "http://img.youtube.com/vi/GeBM8qaJXCE/maxresdefault.jpg",
     "description": "Everybody has probably seen mathematical visualizations that were created using JavaScript. However, one thing that not everybody may know is that some of them can be perfectly replicated using nothing but HTML and CSS. This talk is going to deconstruct some examples, explain the mathematical reasoning behind, reveal a few lesser known things about certain CSS properties and show how using a preprocessor can help with keeping these demos extremely customizable while actually writing very little code.",
     "tags": [
@@ -22,7 +22,7 @@
     ],
     "location": {
         "title": "Full Frontal",
-        "key": "fullfrontal"
+        "key": "full-frontal"
     },
     "key": "stunning-visuals-with-maths-and-no-javascript",
     "added": "2014-05-27T12:12:35.916Z"
