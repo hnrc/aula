@@ -1,0 +1,25 @@
+{
+    "title": "Integrated Tests Are A Scam",
+    "year": 2014,
+    "url": "https://vimeo.com/80533536",
+    "imageUrl": "https://i.vimeocdn.com/video/456490527_1280.jpg",
+    "description": "Integrated tests are a scam. You’re probably writing 2-5% of the integrated tests you need to test thoroughly. You’re probably duplicating unit tests all over the place. Your integrated tests probably duplicate each other all over the place. When an integrated test fails, who knows what’s broken? Integrated tests probably do you more harm than good. Learn the two-pronged attack that solves the problem: collaboration tests and contract tests.",
+    "tags": [
+        {
+            "title": "Testing",
+            "key": "testing"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "J.B. Rainsberger",
+            "key": "jb-rainsberger"
+        }
+    ],
+    "location": {
+        "title": "Devtraining",
+        "key": "devtraining"
+    },
+    "key": "integrated-tests-are-a-scam",
+    "added": "2014-05-27T09:23:05.904Z"
+}
