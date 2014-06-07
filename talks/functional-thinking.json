@@ -1,0 +1,25 @@
+{
+    "title": "Functional Thinking",
+    "year": 2013,
+    "url": "https://www.youtube.com/watch?v=7aYS9PcAITQ",
+    "imageUrl": "http://img.youtube.com/vi/7aYS9PcAITQ/maxresdefault.jpg",
+    "description": "Learning the syntax of a new language is easy, but learning to think under a different paradigm is hard. This session helps you transition from an object-oriented imperative programmer to a functional programmer, using Java, Clojure and Scala for examples.",
+    "tags": [
+        {
+            "title": "Functional programming",
+            "key": "functional-programming"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Neal Ford",
+            "key": "neal-ford"
+        }
+    ],
+    "location": {
+        "title": "OSCON",
+        "key": "oscon"
+    },
+    "key": "functional-thinking",
+    "added": "2014-06-07T21:35:23.062Z"
+}
