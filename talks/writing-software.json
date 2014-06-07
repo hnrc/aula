@@ -1,0 +1,29 @@
+{
+    "title": "Writing Software",
+    "year": 2014,
+    "url": "https://www.youtube.com/watch?v=9LfmrkyP81M",
+    "imageUrl": "http://img.youtube.com/vi/9LfmrkyP81M/maxresdefault.jpg",
+    "description": "Rails creator David Heinemeier Hansson explains his view on software development.",
+    "tags": [
+        {
+            "title": "Programming",
+            "key": "programming"
+        },
+        {
+            "title": "Testing",
+            "key": "testing"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "David Heinemeier Hansson",
+            "key": "david-heinemeier-hansson"
+        }
+    ],
+    "location": {
+        "title": "RailsConf",
+        "key": "railsconf"
+    },
+    "key": "writing-software",
+    "added": "2014-06-07T21:30:23.062Z"
+}
