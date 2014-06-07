@@ -1,0 +1,29 @@
+{
+    "title": "I've made a huge mistake",
+    "year": 2012,
+    "url": "https://www.youtube.com/watch?v=8kSfGgiFk48",
+    "imageUrl": "http://img.youtube.com/vi/8kSfGgiFk48/maxresdefault.jpg",
+    "description": "When he isn't ruining people's lives by writing software like phuby, enterprise, and neversaydie, Aaron can be found writing slightly more useful software like nokogiri. To keep up his Gameboy Lifestyle, Aaron spends his weekdays writing high quality software for ATTi. Be sure to catch him on Karaoke night, where you can watch him sing his favorite smooth rock hits of the 70's and early 80's.",
+    "tags": [
+        {
+            "title": "Comedy",
+            "key": "comedy"
+        },
+        {
+            "title": "Ruby",
+            "key": "ruby"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Aaron Patterson",
+            "key": "aaron-patterson"
+        }
+    ],
+    "location": {
+        "title": "RailsConf",
+        "key": "railsconf"
+    },
+    "key": "ive-made-a-huge-mistake",
+    "added": "2014-06-07T19:15:23.062Z"
+}
