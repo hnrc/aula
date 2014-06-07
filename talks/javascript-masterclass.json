@@ -1,0 +1,29 @@
+{
+    "title": "JavaScript Masterclass",
+    "year": 2013,
+    "url": "https://www.youtube.com/watch?v=v0TFmdO4ZP0",
+    "imageUrl": "http://img.youtube.com/vi/v0TFmdO4ZP0/maxresdefault.jpg",
+    "description": "I am not an expert developer. I am also not a beginning developer. I'm an intermediate developer, and I want to navigate the path from being a mediocre or good developer, to becoming a great or expert level developer. How in the heck do I do this? The tutorial ecosystem of the web is heavily skewed towards beginners, but what about the rest of us?",
+    "tags": [
+        {
+            "title": "Programming",
+            "key": "programming"
+        },
+        {
+            "title": "JavaScript",
+            "key": "javascript"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Angelina Fabbro",
+            "key": "angelina-fabbro"
+        }
+    ],
+    "location": {
+        "title": "JSConf",
+        "key": "jsconf"
+    },
+    "key": "javascript-masterclass",
+    "added": "2014-06-07T21:56:23.062Z"
+}

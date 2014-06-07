@@ -1,0 +1,29 @@
+{
+    "title": "RailsConf Closing Keynote 2014",
+    "year": 2014,
+    "url": "https://www.youtube.com/watch?v=BTTygyxuGj8",
+    "imageUrl": "http://img.youtube.com/vi/BTTygyxuGj8/maxresdefault.jpg",
+    "description": "Closing entertaining keynote at RailsConf by Aaron Patterson.",
+    "tags": [
+        {
+            "title": "Comedy",
+            "key": "comedy"
+        },
+        {
+            "title": "Ruby",
+            "key": "ruby"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Aaron Patterson",
+            "key": "aaron-patterson"
+        }
+    ],
+    "location": {
+        "title": "RailsConf",
+        "key": "railsconf"
+    },
+    "key": "railsconf-closing-keynote-2014",
+    "added": "2014-06-07T21:14:23.062Z"
+}
