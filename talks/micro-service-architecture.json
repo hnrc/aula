@@ -1,0 +1,29 @@
+{
+    "title": "Micro-Service Architecture",
+    "year": 2012,
+    "url": "https://www.youtube.com/watch?v=2rKEveL55TY",
+    "imageUrl": "http://img.youtube.com/vi/2rKEveL55TY/maxresdefault.jpg",
+    "description": "At the Forward Internet Group in London, we are implementing SOA in unusual ways. Rather than a few, business-related services being implemented per the original vision, we have developed systems made of myriads of very small, usually short-lived services. In this workshop, we will start by exploring the evolution of SOA implementations by the speaker. In particular, lessons learned from each implementation will be discussed, and re-application of these lessons on the next implementation. Challenges (and even failures) will be explicitly identified.",
+    "tags": [
+        {
+            "title": "Architecture",
+            "key": "architecture"
+        },
+        {
+            "title": "Distributed systems",
+            "key": "distributed-systems"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Fred George",
+            "key": "fred-george"
+        }
+    ],
+    "location": {
+        "title": "Baruco",
+        "key": "baruco"
+    },
+    "key": "micro-service-architecture",
+    "added": "2014-06-12T20:34:00.000Z"
+}
