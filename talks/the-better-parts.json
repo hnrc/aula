@@ -1,0 +1,29 @@
+{
+    "title": "The Better Parts",
+    "year": 2014,
+    "url": "https://vimeo.com/97419177",
+    "imageUrl": "https://i.vimeocdn.com/video/477789665_640.jpg",
+    "description": "This talk is about using programming languages more effectively, and using that experience to create and select better programming languages. There are bad practices in software development that are so old and well established that it is difficult to recognize the problems they cause.",
+    "tags": [
+        {
+            "title": "Programming",
+            "key": "programming"
+        },
+        {
+            "title": "JavaScript",
+            "key": "javascript"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Douglas Crockford",
+            "key": "douglas-crockford"
+        }
+    ],
+    "location": {
+        "title": "NDC",
+        "key": "ndc"
+    },
+    "key": "the-better-parts",
+    "added": "2014-06-25T13:40:23.062Z"
+}
