@@ -1,0 +1,25 @@
+{
+    "title": "How To Stop Sucking And Be Awesome Instead",
+    "year": 2012,
+    "url": "https://www.youtube.com/watch?v=L7EGIt3-WUQ",
+    "imageUrl": "http://img.youtube.com/vi/L7EGIt3-WUQ/maxresdefault.jpg",
+    "description": "If you're reading this abstract, you're not awesome enough. Attend this session to unlock the secrets of Jeff Atwood, world famous blogger and industry leading co-founder of Stack Overflow and Stack Exchange. Learn how you too can determine clear goals for your future and turn your dreams into reality through positive-minded conceptualization techniques.* Within four to six weeks, you'll realize the positive effects of Jeff Atwood's wildly popular Coding Horror blog in your own life, transporting you to an exciting new world of wealth, happiness and political power. (*May or may not also include working hard on things that matter for the rest of your life.)",
+    "tags": [
+        {
+            "title": "People",
+            "key": "people"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Jeff Atwood",
+            "key": "jeff-atwood"
+        }
+    ],
+    "location": {
+        "title": "Atlassian Summit",
+        "key": "atlassian-summit"
+    },
+    "key": "how-to-stop-stucking-and-be-awesome-instead",
+    "added": "2014-06-25T12:30:23.062Z"
+}
