@@ -1,0 +1,33 @@
+{
+    "title": "Deliberate Advice from an Accidental Career",
+    "year": 2014,
+    "url": "http://www.infoq.com/presentations/interactions-career",
+    "imageUrl": "http://www.infoq.com/resource/presentations/interactions-career/en/slides/sl2.jpg",
+    "description": "Dan North shares some of the interactions that have shaped his accidental career: the time he killed the production database, the time the team was imploding, the time the boss was wrong, the time he was the boss who was wrong, the time he tried to quit and failed, and a few others, outlining the impact that interactions with people can have on someone.",
+    "tags": [
+        {
+            "title": "People",
+            "key": "people"
+        },
+        {
+            "title": "Career",
+            "key": "career"
+        },
+        {
+            "title": "War stories",
+            "key": "war-stories"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Dan North",
+            "key": "dan-north"
+        }
+    ],
+    "location": {
+        "title": "QCon",
+        "key": "qcon"
+    },
+    "key": "deliberate-advice-from-an-accidental-career",
+    "added": "2014-07-12T14:38:23.062Z"
+}
