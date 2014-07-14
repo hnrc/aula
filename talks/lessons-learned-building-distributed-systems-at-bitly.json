@@ -1,0 +1,25 @@
+{
+    "title": "Lessons Learned Building Distributed Systems at Bitly",
+    "year": 2014,
+    "url": "https://vimeo.com/96844401",
+    "imageUrl": "https://i.vimeocdn.com/video/477692932_640.jpg",
+    "description": "Distributed systems can often be challenging to build and operate, but they can offer significant benefits in terms of availability, cost effectiveness, and capacity. Over the years bitly has built a number of large scale systems to handle and analyze billions of clicks each month. Some of the specific topics to be covered include the benefits of Service Oriented Architecture, using asynchronous streams, scaling, dealing with failure, and monitoring. Overall this talk will focus on fundamental concepts and techniques, but will pull in specific tools and examples for illustration purposes.",
+    "tags": [
+        {
+            "title": "Distributed systems",
+            "key": "distributed-systems"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Sean O'Connor",
+            "key": "sean-oconnor"
+        }
+    ],
+    "location": {
+        "title": "BACON",
+        "key": "bacon"
+    },
+    "key": "lessons-learned-building-distributed-systems-at-bitly",
+    "added": "2014-07-14T18:30:23.062Z"
+}
