@@ -1,0 +1,25 @@
+{
+    "title": "Know Your Types - Bringing Static Types to Dynamic Languages",
+    "year": 2014,
+    "url": "https://www.youtube.com/watch?v=_HM8Vczybj4",
+    "imageUrl": "http://img.youtube.com/vi/_HM8Vczybj4/maxresdefault.jpg",
+    "description": "After several years of being a professional programmer, I realized that I didn't really know what I was doing, and decided to teach myself Computer Science. After spending a year learning Computer Science from the ground up, I thought I was starting to understand things. Then I came across Haskell. It fascinated and frustrated me, and I wanted to understand how types worked. I also began wondering - why doesn't Ruby have a modern type system? Do we need one? Do we want one? How would it work?",
+    "tags": [
+        {
+            "key": "computer-science",
+            "title": "Computer science"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Michael Bernstein",
+            "key": "michael-bernstein"
+        }
+    ],
+    "location": {
+        "key": "goruco",
+        "title": "GORUCO"
+    },
+    "key": "distributed-systems-archeology",
+    "added": "2014-07-17T10:08:57.856Z"
+}
