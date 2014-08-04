@@ -1,0 +1,25 @@
+{
+    "title": "TDD, where did it all go wrong",
+    "year": 2013,
+    "url": "http://vimeo.com/68375232",
+    "imageUrl": "http://i.vimeocdn.com/video/442456067_640.jpg",
+    "description": "Since Kent Beck wrote the book on TDD in 2002 a lot of words have been dedicated to the subject.  In this talk we re-discover Kent's original proposition, discover where key misunderstandings occured and look at a better approach to TDD that supports sofware development instead of impeding it. Be prepared from some sacred cows to be slaughtered and fewer but better tests to be written.",
+    "tags": [
+        {
+            "title": "Testing",
+            "key": "testing"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Ian Cooper",
+            "key": "ian-cooper"
+        }
+    ],
+    "location": {
+        "title": "NDC",
+        "key": "ndc"
+    },
+    "key": "tdd-where-did-it-all-go-wrong",
+    "added": "2014-08-04T12:30:23.062Z"
+}
