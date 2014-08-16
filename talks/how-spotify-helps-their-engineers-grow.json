@@ -1,0 +1,29 @@
+{
+    "title": "How Spotify Helps Their Engineers Grow",
+    "year": 2014,
+    "url": "https://www.youtube.com/watch?v=qIIAZ1ZOnPA",
+    "imageUrl": "http://img.youtube.com/vi/qIIAZ1ZOnPA/maxresdefault.jpg",
+    "description": "In this talk, Spotify Chapter Lead Chris Angove discusses Spotify's culture and structure. You'll learn how Spotify's engineering team structure has changed to meet the demands of a quickly-growing startup. Chris questions the traditional career ladder and explores ways engineers and managers can create new career paths.",
+    "tags": [
+        {
+            "title": "Career",
+            "key": "career"
+        },
+        {
+            "title": "Organization",
+            "key": "organization"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Chris Angove",
+            "key": "chris-angove"
+        }
+    ],
+    "location": {
+        "title": "NYC Startup Engineering Meetup",
+        "key": "nyc-startup-engineering-meetup"
+    },
+    "key": "how-spotify-helps-their-engineers-grow.",
+    "added": "2014-08-16T11:09:23.062Z"
+}
