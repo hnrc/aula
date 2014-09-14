@@ -1,0 +1,29 @@
+{
+    "title": "Lessons Learned and Questions Raised from Building Distributed Systems",
+    "year": 2013,
+    "url": "https://www.youtube.com/watch?v=F2pwJ6ym6CE",
+    "imageUrl": "http://img.youtube.com/vi/F2pwJ6ym6CE/maxresdefault.jpg",
+    "description": "Basho's (former) Chief Architect Andy Gross closes RICON East with a talk about lessons learned building Riak and other distributed systems.",
+    "tags": [
+        {
+            "key": "distributed-systems",
+            "title": "Distributed systems"
+        },
+        {
+            "key": "riak",
+            "title": "Riak"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Andy Gross",
+            "key": "andy-gross"
+        }
+    ],
+    "location": {
+        "key": "ricon",
+        "title": "Ricon"
+    },
+    "key": "lessons-learned-and-questions-raised-from-building-distributed-systems",
+    "added": "2014-09-14T09:30:06.489Z"
+}
