@@ -1,0 +1,37 @@
+{
+    "title": "The Mess We're In",
+    "year": 2014,
+    "url": "https://www.youtube.com/watch?v=lKXe3HUG2l4",
+    "imageUrl": "http://img.youtube.com/vi/lKXe3HUG2l4/maxresdefault.jpg",
+    "description": "Joe Armstrong",
+    "tags": [
+        {
+            "key": "state-of-the-industry",
+            "title": "State of the industry"
+        },
+        {
+            "key": "math",
+            "title": "Math"
+        },
+        {
+            "key": "entropy",
+            "title": "Entropy"
+        },
+        {
+            "key": "causality",
+            "title": "Causality"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Joe Armstrong",
+            "key": "joe-armstrong"
+        }
+    ],
+    "location": {
+        "key": "strangeloop",
+        "title": "Strange Loop"
+    },
+    "key": "the-mess-were-in",
+    "added": "2014-09-21T01:07:00.000Z"
+}
