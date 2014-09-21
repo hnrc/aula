@@ -3,7 +3,7 @@
     "year": 2014,
     "url": "https://www.youtube.com/watch?v=lKXe3HUG2l4",
     "imageUrl": "http://img.youtube.com/vi/lKXe3HUG2l4/maxresdefault.jpg",
-    "description": "Joe Armstrong",
+    "description": "Software is a mess. By doing so we have created an entire industry. We have collectively created billions of lines of unmaintainable unspecified code that will require millions of programmers to work for thousands of years to correct the mess we've made. Where did things go wrong? Can we make things work again? Should we admit we were wrong and throw all our legacy software away and start again? How can we make correct software, that is easy to understand and maintain?",
     "tags": [
         {
             "key": "state-of-the-industry",
@@ -20,6 +20,10 @@
         {
             "key": "causality",
             "title": "Causality"
+        },
+        {
+            "key": "history",
+            "title": "History"
         }
     ],
     "speakers": [
@@ -29,7 +33,7 @@
         }
     ],
     "location": {
-        "key": "strangeloop",
+        "key": "strange-loop",
         "title": "Strange Loop"
     },
     "key": "the-mess-were-in",
