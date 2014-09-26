@@ -1,0 +1,25 @@
+{
+    "title": "Software Design: Why, When & How",
+    "year": 2014,
+    "url": "http://vimeo.com/105771493",
+    "imageUrl": "http://i.vimeocdn.com/video/488675546_640.jpg",
+    "description": "Advice about software design focuses on the principles designers should adhere to and the structures that should be created. This leaves designers prone to creating the right design at the wrong time. \"Why, When & How\" fills this gap, giving designers an understanding of the overall goals of software design, when various techniques become relevant, and how to move smoothly from yesterday's design to today's.",
+    "tags": [
+        {
+            "title": "Refactoring",
+            "key": "refactoring"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Kent Beck",
+            "key": "kent-beck"
+        }
+    ],
+    "location": {
+        "title": "JavaZone",
+        "key": "javazone"
+    },
+    "key": "why-when-how",
+    "added": "2014-09-26T20:48:23.062Z"
+}
