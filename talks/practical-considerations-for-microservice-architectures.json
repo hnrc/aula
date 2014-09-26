@@ -1,17 +1,17 @@
 {
     "title": "Practical Considerations For Microservice Architectures",
-    "year": 2013,
-    "url": "http://yow.eventer.com/yow-2013-1080/practical-considerations-for-microservice-architectures-by-sam-newman-1389",
-    "imageUrl": "http://videos.eventer.com/videos/1389/20140225025824_poster.jpg",
-    "description": "So you've heard about the buzz behind Microservices and finer-grained architectures in general? Microservice architectures can lead to easier to change, more maintainable systems which can be more secure, performant and stable than previous designs. But what are the practical concerns associated with running more fine-grained systems, and what are the new things you'll need to know if you want to embrace the power of smaller services without the new sources of complexity making your life a nightmare?",
+    "year": 2014,
+    "url": "http://vimeo.com/105751281",
+    "imageUrl": "http://i.vimeocdn.com/video/488647162_640.jpg",
+    "description": "This talk covers some concrete, practical advice for people building, or considering building, microservice arcitectures. So you’ve heard about the buzz behind Microservices and finer-grained architectures in general? Microservice architectures can lead to easier to change, more maintainable systems which can be more secure, performant and stable than previous designs. But what are the practical concerns associated with running more fine-grained systems, and what are the new things you’ll need to know if you want to embrace the power of smaller services without the new sources of complexity making your life a nightmare?",
     "tags": [
+        {
+            "title": "Microservices",
+            "key": "microservices"
+        },
         {
             "title": "Architecture",
             "key": "architecture"
-        },
-        {
-            "key": "distributed-systems",
-            "title": "Distributed systems"
         }
     ],
     "speakers": [
@@ -21,9 +21,9 @@
         }
     ],
     "location": {
-        "title": "YOW",
-        "key": "yow"
+        "title": "JavaZone",
+        "key": "javazone"
     },
     "key": "practical-considerations-for-microservice-architectures",
-    "added": "2014-05-19T07:12:44.181Z"
+    "added": "2014-09-26T15:08:00.000Z"
 }
