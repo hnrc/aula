@@ -1,0 +1,25 @@
+{
+    "title": "How to Build Innovative Technologies",
+    "year": 2014,
+    "url": "https://www.youtube.com/watch?v=hg87TxYnzbI",
+    "imageUrl": "http://img.youtube.com/vi/hg87TxYnzbI/maxresdefault.jpg",
+    "description": "Abby will share lessons learned from working with hundreds of tech startups for what's involved in building out innovative new products that push the edge on what's possible. Using examples from real startups, she'll share lean and agile techniques that have been adapted to building things that nobody has ever built before. Just as important, she'll share tips on how to find your initial users and how to very quickly validate (and iterate on!) your ideas to help you achieve product success.",
+    "tags": [
+        {
+            "title": "Startup",
+            "key": "startup"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Abby Fichtner",
+            "key": "abby-fichtner"
+        }
+    ],
+    "location": {
+        "title": "E4E Developers Conf",
+        "key": "e4e-developers-conf"
+    },
+    "key": "how-to-build-innovative-technologies",
+    "added": "2014-10-17T20:35:02.586Z"
+}
