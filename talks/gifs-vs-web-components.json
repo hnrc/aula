@@ -10,7 +10,7 @@
             "key": "gif"
         },
         {
-            "title": "JAVASCRIPT",
+            "title": "JavaScript",
             "key": "javascript"
         },
         {
@@ -25,8 +25,8 @@
         }
     ],
     "location": {
-        "title": "JSConf EU 2014",
-        "key": "jsconf-eu-2014"
+        "title": "JSConf",
+        "key": "jsconf"
     },
     "key": "gifs-vs-web-components",
     "added": "2014-10-18T16:34:05.904Z"
