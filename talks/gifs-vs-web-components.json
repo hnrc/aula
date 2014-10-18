@@ -1,0 +1,33 @@
+{
+    "title": "GIFs vs Web Components",
+    "year": 2014,
+    "url": "https://www.youtube.com/watch?v=i7mrZ_JsA8A",
+    "imageUrl": "http://img.youtube.com/vi/i7mrZ_JsA8A/maxresdefault.jpg",
+    "description": "GIFs are important, or everyone knows that Web Components are the future, right? Or maybe you think that a well-written Angular directive has everything you need. Or, perhaps, you think that there’s no such thing as a well-written Angular directive and so you’ll stick with your Ember components thank-you-very-much. Then again, once your brain is thinking in React, why would you use anything else? This talk is about the reality of component-based web development, told through the frivolous pursuit of a more awesome IMG tag for animated GIFs. It’s a not-so-serious window into a terribly important debate about better encapsulation, reuse, and happiness in our front-end lives.",
+    "tags": [
+        {
+            "title": "GIF",
+            "key": "gif"
+        },
+        {
+            "title": "JAVASCRIPT",
+            "key": "javascript"
+        },
+        {
+            "title": "HTML",
+            "key": "html"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Glen Maddern",
+            "key": "glen-maddern"
+        }
+    ],
+    "location": {
+        "title": "JSConf EU 2014",
+        "key": "jsconf-eu-2014"
+    },
+    "key": "gifs-vs-web-components",
+    "added": "2014-10-18T16:34:05.904Z"
+}
