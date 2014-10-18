@@ -51,6 +51,7 @@ Where all `key` fields are [slugged](http://blog.tersmitten.nl/slugify/) version
 * [kagrela](https://github.com/kagrela)
 * [inem](https://github.com/inem)
 * [stpe](https://github.com/stpe)
+* [linusno](https://github.com/linusno)
 
 #### Credits
 Props to the creators of these fine pieces of code:
