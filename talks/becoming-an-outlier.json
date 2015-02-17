@@ -1,0 +1,29 @@
+{
+    "title": "Becoming an Outlier: Career Reboot for the Developer Mind",
+    "year": 2014,
+    "url": "https://vimeo.com/97415346",
+    "imageUrl": "https://i.vimeocdn.com/video/477783561_640.jpg",
+    "description": "As a developer, your image and your mind are your product. So to get what you’ve never had, you must do what you’ve never done with these precious tools. If you want to make a bigger impact, raise your income, and code with purpose, join us. This session is about making a paradigm shift in how you manage your career. We’ll discuss concrete activities and skills that transform average developers into outliers. You’ll learn why developers can't afford cable, ways to improve your “luck surface area”, and techniques to compress your career through accelerated development. This session is loosely inspired by Malcolm Gladwell’s “Outliers”, Chad Fowler’s \"The Passionate Programmer\" and Seth Godin's \"Poke the Box\". Prepare to think about your development career in a whole new way.",
+    "tags": [
+        {
+            "title": "Career",
+            "key": "career"
+        },
+        {
+            "title": "People",
+            "key": "people"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Cory House",
+            "key": "cory-house"
+        }
+    ],
+    "location": {
+        "title": "NDC",
+        "key": "ndc"
+    },
+    "key": "becoming-an-outlier",
+    "added": "2015-02-17T09:00:00.000Z"
+}
