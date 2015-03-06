@@ -1,0 +1,29 @@
+{
+    "title": "Real Software Engineering",
+    "year": 2010,
+    "url": "https://www.youtube.com/watch?v=NP9AIUT9nos",
+    "imageUrl": "http://img.youtube.com/vi/NP9AIUT9nos/maxresdefault.jpg",
+    "description": "Software engineering as it's taught in universities simply doesn't work. It doesn't produce software systems of high quality, and it doesn't produce them for low cost. Sometimes, even when practiced rigorously, it doesn't produce systems at all. That's odd, because in every other field, the term \"engineering\" is reserved for methods that work.",
+    "tags": [
+        {
+            "title": "Career",
+            "key": "career"
+        },
+        {
+            "title": "History",
+            "key": "history"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Glenn Vanderburg",
+            "key": "glenn-vanderburg"
+        }
+    ],
+    "location": {
+        "title": "Lone Star Ruby Conference",
+        "key": "lone-star-ruby-conference"
+    },
+    "key": "real-software-engineering.",
+    "added": "2015-03-06T23:30:23.062Z"
+}
