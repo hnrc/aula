@@ -2,7 +2,7 @@
     "title": "How GitHub Uses GitHub to Build GitHub",
     "year": 2011,
     "url": "http://zachholman.com/talk/how-github-uses-github-to-build-github/",
-    "imageUrl": "http://confreaks.net/system/videos/images/706/preview/706-rubyconf2011-how-github-uses-github-to-build-github-thumb_0004.png",
+    "imageUrl": "https://speakerd.s3.amazonaws.com/presentations/4e79b461c9bdcb003f00331d/slide_0.jpg",
     "description": "Build features fast. Ship them. That's what we try to do at GitHub. Our process is the anti-process: what's the minimum overhead we can put up with to keep our code quality high, all while building features as quickly as possible? It's not just features, either: faster development means happier developers.",
     "tags": [
         {
