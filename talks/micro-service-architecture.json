@@ -12,6 +12,10 @@
         {
             "title": "Distributed systems",
             "key": "distributed-systems"
+        },
+        {
+            "title": "Microservices",
+            "key": "microservices"
         }
     ],
     "speakers": [
