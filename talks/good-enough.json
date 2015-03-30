@@ -1,0 +1,25 @@
+{
+    "title": "\"Good Enough\"",
+    "year": 2015,
+    "url": "https://www.youtube.com/watch?v=KawLiSRwJHo",
+    "imageUrl": "http://img.youtube.com/vi/KawLiSRwJHo/maxresdefault.jpg",
+    "description": "As a programmer, work-life balance has always been a tricky thing for me. Steve Wozniak commented that “you can’t stop the steamroller of technology change.” That notion has been applied to software. If you rest you risk being squished. I don’t really know what it means to be \"good enough\" yet, but this talk will explore those lines between work/life balance and how we keep our edge on the job while being present in the moments off the job.",
+    "tags": [
+        {
+            "title": "People",
+            "key": "people"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Barrett Clark",
+            "key": "barrett-clark"
+        }
+    ],
+    "location": {
+        "title": "RailsConf",
+        "key": "railsconf"
+    },
+    "key": "good-enough",
+    "added": "2015-03-30T20:00:00.000Z"
+}
