@@ -1,0 +1,29 @@
+{
+    "title": "The Anatomy of a High-Velocity Software Company",
+    "year": 2015,
+    "url": "https://vimeo.com/122803651",
+    "imageUrl": "https://i.vimeocdn.com/video/511915825.webp?mw=1920&mh=1080&q=70",
+    "description": "Growing a website to support hundreds of millions of users is no easy feat; allowing hundreds of developers to ship thousands of changes to that website is even tougher. In this talk I'll reveal some of the secret sauce that allows Yelp to scale its technology as fast as it scales its developers while enabling rapid iteration and deployment, high-quality, automated QA, and the independence to choose any technology under the sun.",
+    "tags": [
+        {
+            "title": "People",
+            "key": "people"
+        },
+        {
+            "title": "Organization",
+            "key": "organization"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Fred Hatfull",
+            "key": "fred-hatfull"
+        }
+    ],
+    "location": {
+        "title": "CUSEC",
+        "key": "cusec"
+    },
+    "key": "the-anatomy-of-a-high-velocity-software-company",
+    "added": "2015-04-01T11:00:00.000Z"
+}
