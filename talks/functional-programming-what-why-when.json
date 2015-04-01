@@ -1,0 +1,29 @@
+{
+    "title": "Functional Programming; What? Why? When?",
+    "year": 2014,
+    "url": "https://www.youtube.com/watch?v=7Zlp9rKHGD4",
+    "imageUrl": "http://img.youtube.com/vi/7Zlp9rKHGD4/maxresdefault.jpg",
+    "description": "Why is functional programming becoming such a hot topic? Just what _is_ functional programming anyway? And when am I going to have to know about it? In this talk Uncle Bob will walk you through the rationale that is driving the current push towards functional programming. He'll also introduce you to the basics by walking through some simple Clojure code.",
+    "tags": [
+        {
+            "title": "Programming",
+            "key": "programming"
+        },
+        {
+            "title": "Functional programming",
+            "key": "functional-programming"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Robert C. Martin",
+            "key": "robert-c-martin"
+        }
+    ],
+    "location": {
+        "title": "NDC",
+        "key": "ndc"
+    },
+    "key": "functional-programming-what-why-when",
+    "added": "2015-04-01T10:00:00.000Z"
+}
