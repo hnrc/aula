@@ -1,0 +1,33 @@
+{
+    "title": "Why we don't need standards in the cloud",
+    "year": 2010,
+    "url": "https://youtu.be/kRVWjC6osuw?t=14m34s",
+    "imageUrl": "",
+    "description": "If a standard falls in the forest and there is nobody there to adopt it, is it still a standard?",
+    "tags": [
+        {
+            "title": "Technology adoption",
+            "key": "technology-adoption"
+        },
+        {
+            "title": "Cloud",
+            "key": "cloud"
+        },
+        {
+            "title": "Standards",
+            "key": "standards"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Benjamin Black",
+            "key": "benjamin-black"
+        }
+    ],
+    "location": {
+        "title": "OSCON 2010",
+        "key": "oscon-2010"
+    },
+    "key": "why-we-dont-need-standards-in-the-cloud",
+    "added": "2015-04-04T00:18:07.000Z"
+}
