@@ -1,8 +1,8 @@
 {
     "title": "Why we don't need standards in the cloud",
     "year": 2010,
-    "url": "https://youtu.be/kRVWjC6osuw?t=14m34s",
-    "imageUrl": "",
+    "url": "https://www.youtube.com/watch?v=kRVWjC6osuw&t=14m34s",
+    "imageUrl": "http://img.youtube.com/vi/kRVWjC6osuw/mqdefault.jpg",
     "description": "If a standard falls in the forest and there is nobody there to adopt it, is it still a standard?",
     "tags": [
         {
@@ -25,8 +25,8 @@
         }
     ],
     "location": {
-        "title": "OSCON 2010",
-        "key": "oscon-2010"
+        "title": "OSCON",
+        "key": "oscon"
     },
     "key": "why-we-dont-need-standards-in-the-cloud",
     "added": "2015-04-04T00:18:07.000Z"
