@@ -1,0 +1,26 @@
+
+{
+    "title": "Data Information & Context",
+    "year": 2011,
+    "url": "https://www.youtube.com/watch?v=ZcKMBmYS24k",
+    "imageUrl": "",
+    "description": "The OODA loop, for those that don't already have a religion.",
+    "tags": [
+        {
+            "title": "OODA loop",
+            "key": "ooda-loop"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Benjamin Black",
+            "key": "benjamin-black"
+        }
+    ],
+    "location": {
+        "title": "OSCON 2011",
+        "key": "oscon-2011"
+    },
+    "key": "data-information-and-context",
+    "added": "2015-04-04T00:33:37.000Z"
+}
