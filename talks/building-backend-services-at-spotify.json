@@ -1,0 +1,33 @@
+{
+    "title": "Building backend services at Spotify",
+    "year": 2014,
+    "url": "https://vimeo.com/108438464",
+    "imageUrl": "https://i.vimeocdn.com/video/492119497_640.jpg",
+    "description": "The Spotify backend is a massive distributed system that is highly complex and hard to grasp. It handles extraordinary amounts of data. Still, individual services are surprisingly small and simple. This talk will go into detail of a Spotify service works and how the UNIX philosophy of composing components that does a single thing well, works on a greater scale. We’ll cover of how services are built and common patterns for, for example, storage, networking and logging.",
+    "tags": [
+        {
+            "title": "Microservices",
+            "key": "microservices"
+        },
+        {
+            "title": "Architecture",
+            "key": "architecture"
+        },
+        {
+            "title": "Distributed systems",
+            "key": "distributed-systems"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Niklas Gustavsson",
+            "key": "niklas-gustavsson"
+        }
+    ],
+    "location": {
+        "title": "Leetspeak",
+        "key": "leetspeak"
+    },
+    "key": "building-backend-services-at-spotify",
+    "added": "2015-04-26T09:00:00.000Z"
+}
