@@ -1,0 +1,33 @@
+{
+    "title": "The art of destroying software",
+    "year": 2014,
+    "url": "https://vimeo.com/108441214",
+    "imageUrl": "https://i.vimeocdn.com/video/492122663_640.jpg",
+    "description": "One of the most important \"ilities\" in software is the ability to delete it and start over. In this talk we will look at this \"ility\", why it is important, and how we can optimize for it. Imagine never being afraid of your code ever again!",
+    "tags": [
+        {
+            "title": "Refactoring",
+            "key": "refactoring"
+        },
+        {
+            "title": "Technical debt",
+            "key": "technical-debt"
+        },
+        {
+            "title": "Architecture",
+            "key": "architecture"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Greg Young",
+            "key": "greg-young"
+        }
+    ],
+    "location": {
+        "title": "Leetspeak",
+        "key": "leetspeak"
+    },
+    "key": "the-art-of-destroying-software",
+    "added": "2015-04-26T19:00:00.000Z"
+}
