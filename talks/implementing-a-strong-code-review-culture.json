@@ -1,0 +1,29 @@
+{
+    "title": "Implementing a Strong Code-Review Culture",
+    "year": 2015,
+    "url": "https://www.youtube.com/watch?v=PJjmw9TRB7s",
+    "imageUrl": "http://img.youtube.com/vi/PJjmw9TRB7s/maxresdefault.jpg",
+    "description": "Code reviews are not about catching bugs. Modern code reviews are about socialization, learning, and teaching.",
+    "tags": [
+        {
+            "title": "Culture",
+            "key": "culture"
+        },
+        {
+            "title": "Code review",
+            "key": "code-review"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Derek Prior",
+            "key": "derek-prior"
+        }
+    ],
+    "location": {
+        "title": "RailsConf",
+        "key": "railsconf"
+    },
+    "key": "implementing-a-strong-code-review-culture",
+    "added": "2015-05-01T09:00:00.000Z"
+}
