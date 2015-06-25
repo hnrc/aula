@@ -1,0 +1,33 @@
+{
+    "title": "Infrastructure at Scale: Apache Kafka, Twitter Storm & Elastic Search",
+    "year": 2013,
+    "url": "https://www.youtube.com/watch?v=LpNbjXFPyZ0",
+    "imageUrl": "https://i.ytimg.com/vi/LpNbjXFPyZ0/hqdefault.jpg",
+    "description": "This is a technical architect's case study of how Loggly has employed the latest social-media-scale technologies as the backbone ingestion processing for our multi-tenant, geo-distributed, and real-time log management system. This presentation describes design details of how we built a second-generation system fully leveraging AWS services including Amazon Route 53 DNS with heartbeat and latency-based routing, multi-region VPCs, Elastic Load Balancing, Amazon Relational Database Service, and a number of pro-active and re-active approaches to scaling computational and indexing capacity.",
+    "tags": [
+        {
+            "title": "Infrastructure",
+            "key": "infrastructure"
+        },
+        {
+            "title": "Architecture",
+            "key": "architecture"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Jim Nisbet",
+            "key": "jim-nisbet"
+        },
+        {
+            "title": "Philip O'Toole",
+            "key": "philip-otoole"
+        }
+    ],
+    "location": {
+        "title": "AWS re:Invent",
+        "key": "aws-reinvent"
+    },
+    "key": "infrastructure-at-scale",
+    "added": "2015-06-25T21:00:00.000Z"
+}
