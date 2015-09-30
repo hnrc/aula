@@ -1,0 +1,29 @@
+{
+    "title": "Hopelessness and Confidence in Distributed Systems Design",
+    "year": 2015,
+    "url": "https://www.youtube.com/watch?v=TlU1opuCXB0",
+    "imageUrl": "http://img.youtube.com/vi/TlU1opuCXB0/hqdefault.jpg",
+    "description": "When designing real-world distributed applications, we face many decision points. Understanding the tradeoffs that we face at these decision points lets us make smarter choices faster. This talk will discuss a series of real-world distributed applications built by the speaker and some of the key tradeoffs that were made in these systems. This is a pragmatic talk for an audience who is eager to go beyond hope and fear into the lightness of hopelessness and confidence.",
+    "tags": [
+        {
+            "title": "Distributed Systems",
+            "key": "distributed-systems"
+        },
+        {
+            "title": "War stories",
+            "key": "war-stories"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Camille Fournier",
+            "key": "camille-fournier"
+        }
+    ],
+    "location": {
+        "title": "Strange Loop",
+        "key": "strange-loop"
+    },
+    "key": "hopelessness-and-confidence-in-distributed-systems-design",
+    "added": "2015-09-30T08:25:00.000Z"
+}
