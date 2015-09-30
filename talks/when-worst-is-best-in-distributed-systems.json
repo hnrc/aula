@@ -1,0 +1,25 @@
+{
+    "title": "When \"Worst\" is Best (in Distributed Systems)",
+    "year": 2015,
+    "url": "https://www.youtube.com/watch?v=ZGIAypUUwoQ",
+    "imageUrl": "http://img.youtube.com/vi/ZGIAypUUwoQ/hqdefault.jpg",
+    "description": "In many areas of systems design, provisioning for worst-case behavior (e.g., load spikes and anomalous user activity) incurs sizable penalties (e.g., performance and operational overheads) in the typical and best cases. However, in distributed systems, building software that is resilient to worse-case network behavior can -- perhaps paradoxically -- lead to improved behavior in typical and best-case scenarios. That is, systems that don't rely on synchronous communication (or coordination) in the worst case frequently aren't forced to wait in any case -- improving latency, scalability, and performance via increased concurrency.",
+    "tags": [
+        {
+            "title": "Distributed Systems",
+            "key": "distributed-systems"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "Peter Bailis",
+            "key": "peter-bailis"
+        }
+    ],
+    "location": {
+        "title": "Strange Loop",
+        "key": "strange-loop"
+    },
+    "key": "when-worst-is-best-in-distributed-systems",
+    "added": "2015-09-30T08:05:00.000Z"
+}
